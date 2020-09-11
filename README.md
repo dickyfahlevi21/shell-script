@@ -2,6 +2,9 @@
 ```bash
 ./01.text-length.sh
 ```
-- [ ] 2. Create script that accept url then validate it if valid get data from it and show the data
+- [x] 2. Create script that accept url then validate it if valid get data from it and show the data
+```bash
+./02.url.sh https://jsonplaceholder.typicode.com/users/1
+```
 - [ ] 3. Read data from file and save it
 - [ ] 4. Script to install nodejs
